@@ -2,6 +2,11 @@
 Changelog for package point_cloud2_filters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2023-08-04)
+------------------
+* install example
+* Contributors: Davide Torielli
+
 1.0.1 (2023-07-24)
 ------------------
 * Create LICENSE
