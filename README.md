@@ -1,3 +1,26 @@
+## point_cloud2_filters (noetic) - 1.0.3-1
+
+The packages in the `point_cloud2_filters` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release point_cloud2_filters --rosdistro noetic` on `Tue, 06 Aug 2024 13:50:43 -0000`
+
+The `point_cloud2_filters` package was released.
+
+Version of package(s) in repository `point_cloud2_filters`:
+
+- upstream repository: https://github.com/ADVRHumanoids/point_cloud2_filters.git
+- release repository: https://github.com/ADVRHumanoids/point_cloud2_filters-release.git
+- rosdistro version: `1.0.2-1`
+- old version: `1.0.2-1`
+- new version: `1.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## point_cloud2_filters (noetic) - 1.0.2-1
 
 The packages in the `point_cloud2_filters` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --rosdistro noetic point_cloud2_filters` on `Fri, 04 Aug 2023 09:21:30 -0000`
